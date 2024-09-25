@@ -5,6 +5,9 @@
 [submodule "hypothesis"]
 	path = hypothesis
 	url = https://github.com/cran/hypothesis
+[submodule "queryBuilder"]
+	path = queryBuilder
+	url = https://github.com/cran/queryBuilder
 [submodule "shinyCohortBuilder"]
 	path = shinyCohortBuilder
 	url = https://github.com/cran/shinyCohortBuilder
