@@ -8,9 +8,6 @@
 [submodule "queryBuilder"]
 	path = queryBuilder
 	url = https://github.com/cran/queryBuilder
-[submodule "shinyCohortBuilder"]
-	path = shinyCohortBuilder
-	url = https://github.com/cran/shinyCohortBuilder
 [submodule "shinyGizmo"]
 	path = shinyGizmo
 	url = https://github.com/cran/shinyGizmo
